@@ -74,6 +74,4 @@
 
 ### 🐍 **That's How Commits Move... Snake**
 
-![Snake Game](https://github.com/davidobregoon/davidobregoon/blob/output/github-contribution-grid-snake.svg)
-
 </div>
