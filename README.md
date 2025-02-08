@@ -43,20 +43,22 @@
 
 <p align="center">
   <a href="https://github.com/davidobregoon">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adityakanoi2001&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=davidobregoon&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/davidobregoon">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adityakanoi2001&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=davidobregoon&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKanoi2001&theme=dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=davidobregoon&theme=dark&hide_border=true"/>
 </p>
 
-### 🎖 &nbsp;My Badges 
+### 🎖 &nbsp;Mis Insignias
 
-[![An image of @adityakanoi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityakanoi)](https://holopin.io/@adityakanoi)
+[![An image of @davidobregoon's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/davidobregoon)](https://holopin.io/@davidobregoon)
+
+
 
 
 ### 📜 &nbsp;My Articles
